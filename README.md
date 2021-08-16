@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @dippydorp
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on an project
+- 💞️ I’m looking to collaborate on a project
 - 📫 How to reach me RockinLachlan007@gmail.com
 
 <!---
